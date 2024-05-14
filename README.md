@@ -1,4 +1,4 @@
-# Hallan Oliveira - HDSO - Software Engineer
+# Hallan Oliveira (HDSO) Software Engineer
 
 Hello there! 👋 I'm Hallan, a Software Engineer from Paraná, Brazil.
 

@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hallan Oliveira - HDSO - Software Engineer
 
-<!--
-**HallanOliveira/HallanOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Hallan, a Software Engineer from Paraná, Brazil.
 
-Here are some ideas to get you started:
+## Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block;">
+  <img style="vertical-align: middle;" alt="HDSO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="vertical-align: middle;" alt="HDSO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="vertical-align: middle;" alt="HDSO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="vertical-align: middle;" alt="HDSO-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+  <img style="vertical-align: middle;" alt="HDSO-Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png">
+</div>
+
+Take a look at my repositories!
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-douglas-ti/)

@@ -2,6 +2,9 @@
 
 Hello there! 👋 I'm Hallan, a Software Engineer from Paraná, Brazil.
 
+<br/>
+Take a look 👀 at my repositories!
+
 ## Technologies and Tools
 
 <div style="display: inline-block;">
@@ -14,9 +17,6 @@ Hello there! 👋 I'm Hallan, a Software Engineer from Paraná, Brazil.
   <img style="vertical-align: middle;" alt="HDSO-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="vertical-align: middle;" alt="HDSO-Docker" title="Docker" height="30" width="30" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png">
 </div>
-
-<br/>
-Take a look at my repositories!
 
 ## Connect with Me
 

@@ -3,7 +3,7 @@
 Hello there! 👋 I'm Hallan, a Software Engineer from Paraná, Brazil.
 
 <br/>
-Take a look 👀 at my repositories!
+Take a look 👀 at <a href="https://github.com/HallanOliveira?tab=repositories" target="_blank">my repositories</a>!
 
 ## Technologies and Tools
 

@@ -15,7 +15,8 @@ Take a look 👀 at <a href="https://github.com/HallanOliveira?tab=repositories"
   <img style="vertical-align: middle;" alt="HDSO-Vue.js" title="Vue.js" height="30" width="30" src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png">
   <img style="vertical-align: middle;" alt="HDSO-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img style="vertical-align: middle;" alt="HDSO-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="vertical-align: middle;" alt="HDSO-Docker" title="Docker" height="30" width="30" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png">
+  <img style="vertical-align: middle;" alt="HDSO-Docker" title="Docker" height="30" width="30" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png"> 
+  <img style="vertical-align: middle;" alt="HDSO-AWS" title="AWS" height="30" width="30" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png">
 </div>
 
 ## Connect with Me
